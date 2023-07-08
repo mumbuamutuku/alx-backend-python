@@ -6,7 +6,7 @@ argument and returns the floor of the float.
 """
 
 
-def floor(n: float) -> float:
+def floor(n: float) -> int:
     """
     function floor
     n: float
